@@ -17,6 +17,9 @@ The backend logic is implemented in Java, providing a robust foundation for hand
 # Getting Started
 ## images of projects
 
-![loGin](https://github.com/Abhishekkumar1232002/LoginPageModule/assets/126147035/eef9759e-859b-43e0-834d-906e99a81b75)
-![signUp](https://github.com/Abhishekkumar1232002/LoginPageModule/assets/126147035/21ec121e-b3a9-4f11-aa12-f2c797f58be9)
+<img src="https://github.com/Abhishekkumar1232002/LoginPageModule/assets/126147035/eef9759e-859b-43e0-834d-906e99a81b75" width="200" height="400" />
+
+<img src="https://github.com/Abhishekkumar1232002/LoginPageModule/assets/126147035/21ec121e-b3a9-4f11-aa12-f2c797f58be9" width="200" height="400" />
+
+
 
