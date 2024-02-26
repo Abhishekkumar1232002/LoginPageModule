@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585834558165",
+    "project_id": "login-page-e2cce",
+    "storage_bucket": "login-page-e2cce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585834558165:android:8ebd70e1a7a2cedb08e85c",
+        "android_client_info": {
+          "package_name": "com.example.logininpage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7cveWm2ySK9yuf_INHg4DdNcPqVO2qIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
